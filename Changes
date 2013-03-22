@@ -1,0 +1,29 @@
+==================================================
+Changes from 1739-06-08 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2013-03-22 01:16:22 +0000
+------------------------------------------
+
+  Change: 53d01d2f8cce58aea29b80c20dfdee3a15f7d521
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-03-22 02:03:04 +0000
+
+    Removed unused requirement 
+
+  Change: 72d3e1971d6b39ac3cbf3f6444ac3c264282d8e9
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-03-22 01:59:11 +0000
+
+    First version, base functionality 
+
+  Change: c5c9455f79c26219d3e1c75a5ce92e33f3d7ae86
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-03-22 00:09:32 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
