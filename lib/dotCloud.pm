@@ -3,7 +3,7 @@ BEGIN {
   $dotCloud::AUTHORITY = 'cpan:GETTY';
 }
 {
-  $dotCloud::VERSION = '0.001';
+  $dotCloud::VERSION = '0.002';
 }
 # ABSTRACT: A small wrapper around the dotcloud management tool
 
@@ -96,7 +96,7 @@ dotCloud - A small wrapper around the dotcloud management tool
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 

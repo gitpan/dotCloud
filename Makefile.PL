@@ -28,7 +28,7 @@ my %WriteMakefileArgs = (
     "YAML" => "0.84",
     "namespace::autoclean" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

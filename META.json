@@ -48,7 +48,7 @@
          "web" : "https://github.com/Getty/p5-dotcloud"
       }
    },
-   "version" : "0.001",
+   "version" : "0.002",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.014002"
